@@ -30,12 +30,3 @@ Version Python : 2.7
 Librerías descargadas = sklearn , pandas
 
 
-
-## Creators
-
-**Miguel Figueira**
-
-* <https://twitter.com/miguelf11>
-
-
-
